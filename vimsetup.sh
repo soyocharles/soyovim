@@ -2,5 +2,5 @@
 echo "set up vim"
 cp -r ./.vim ~/
 cp ./.vimrc ~/
-cp ./.viminfor ~/
+cp ./.viminfo ~/
 echo "done"
